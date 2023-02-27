@@ -1,6 +1,7 @@
 # Web Development Project 1 - Houston Coffee Shops
 
 Submitted by: Emma Li
+
 This web app: A simple card-based webpage showing some of my favorite coffee shops in Houston.
 
 Time spent: **X** hours spent in total
