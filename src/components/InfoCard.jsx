@@ -1,17 +1,23 @@
 import React from "react";
 
-const InfoCard = () => {
+const InfoCard = (props) => {
 
 
 
         return (
 
-                <div className="InfoCard">
+                <td className={'Name ' + props.color}>
 
-                        Testing the card component.
+                <h5>
+                 {props.name}  
+                </h5>
+
+                <h6>
+                   {props.description}     
+                </h6>
 
 
-                </div>
+                </td>
         )
 
 }
