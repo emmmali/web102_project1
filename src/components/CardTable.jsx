@@ -35,8 +35,7 @@ const CardTable = () => {
 
                                 <InfoCard name='Segundo Coffee Lab' picture={Segundo}color='pastelgreen' location='Second Ward' description='Amazing themed drinks. Cool warehouse vibes, good lighting, nice industrial seating. Super cool mini thrift shops and other popups to explore inside after a long study session. 10/10.' link="https://www.yelp.com/biz/segundo-coffee-lab-houston"/>
 
-                                <InfoCard name='Ola' color='yellow' picture={Ola} location='Midtown' description='Asian-inspired drinks including dalgona and sparkling matcha lemonade. Immaculate and bright interior. Super friendly staff. Gave me free pumpkin bread.'link="https://www.olaland.com/"/>
-                                <p></p>
+                                <InfoCard name='Ola' color='yellow' picture={Ola} location='Midtown' description='Asian-inspired drinks including dalgona and sparkling matcha lemonade. Immaculate and bright interior. Super friendly staff. Gave me free pumpkin bread :D.'link="https://www.olaland.com/"/>
                                 <p></p>
                                 <p></p>
                         </tr>
@@ -66,9 +65,6 @@ const CardTable = () => {
                                 <p></p>
                                 <p></p>
                         </tr>
-
-
-
 
                         </tbody>
                  </table>
