@@ -1,19 +1,21 @@
 body {
-  margin: 0;
-  display: flex;
+  margin: 10;
+  display:flex;
   place-items: center;
-  min-width: 320px;
-  min-height: 100vh; 
+  min-width: 30px;
+  min-height: 10vh;
 }
 
+
+
 th {
-  width: 120px;
-  padding-top:25px;
-  padding-bottom:30px;
+  width: 10px;
+  padding-top: 10px;
+  padding-bottom:10px;
 }
 
 td {
-  padding: 5px;
+  padding: 20px;
 }
 
 .time{
@@ -21,14 +23,24 @@ td {
 }
 
 .InfoCard {
-  width: 100px;
-  height: 500px;
+  width: 10px;
+  height: 10px;
+}
+
+button {
+   width: 10px;
+   height: 10px;
 }
 
 .InfoCard h6,h5 {
-  line-height: 0px;
+  line-height: 10px;
   align-content: center;
 }
+
+/* .InfoCard h7 {
+  line-height: 0px;
+  align-content: center;
+} */
 
 .pink {
   background:pink;
@@ -41,3 +53,17 @@ td {
 .green {
   background:rgb(202, 245, 222);
 } 
+
+.yellow {
+  background:rgb(243, 243, 211);
+}
+
+.beige {
+  background:rgb(235, 218, 209);
+}
+
+.pastelgreen {
+
+  background: rgb(185, 224, 195);
+
+}
